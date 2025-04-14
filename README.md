@@ -1,36 +1,59 @@
-## Hi there 👋
+## 👋 Hi there, I'm Rahul!
 
-Hi there! 👋 I'm Ramakrishna
-Welcome to my GitHub profile! I'm a DevOps Engineer with over 6 years of experience in designing, implementing, and maintaining robust CI/CD pipelines, cloud infrastructures, and scalable application deployment strategies. I enjoy solving complex challenges and continuously improving processes to deliver high-quality software solutions.
+Welcome to my GitHub profile!  
+I'm a passionate **DevOps Engineer** with over **2 years** of experience in designing, implementing, and maintaining robust **CI/CD pipelines**, **cloud infrastructure**, and **scalable deployment strategies**.
 
-🚀 Skills & Expertise
-DevOps Tools & Platforms
-Cloud Platforms: AWS, Azure
-Infrastructure as Code (IaC): Terraform, Azure Resource Manager (ARM)
-Containerization & Orchestration: Docker, Kubernetes, Rancher
-Monitoring & Logging: Grafana, Elasticsearch
-Version Control: GitHub, GitLab, Bitbucket
-Development & Automation
-CI/CD Pipelines: Jenkins, Azure DevOps, GitHub Actions
-Configuration Management: Ansible
-Scripting: Bash, Python
-Testing & QA
-Integrating Testing with CI/CD Pipelines
-🌟 Projects & Achievements
-Banking Application Platform
-Modules: Business, Corporate, Personal
-Streamlined infrastructure setup with Kubernetes for scalable microservices.
-Integrated CI/CD pipelines using Azure DevOps for seamless deployments.
-Monitored application health and performance using Grafana and Elasticsearch.
-Cloud Automation
-Automated resource provisioning on AWS and Azure using Terraform and ARM Templates.
-🎓 Certifications
-AWS Certified Solutions Architect - Associate
-Azure AZ-900
-Azure AZ-104
-📚 Learning & Growth
-Currently exploring Salesforce Copado to expand my technical horizons.
+I thrive on solving complex challenges and continuously improving engineering workflows to deliver high-quality software solutions.
 
-🤝 Let's Connect
-🌐 [LinkedIn]:(www.linkedin.com/in/ramakrishna-immadi-551062223)
-📧 Email: i.ramakrishna94@gmail.com
+---
+
+### 🚀 Skills & Expertise
+
+**🛠 DevOps Tools & Platforms**
+- **Cloud Platforms:** AWS, Azure
+- **IaC:** Terraform, Azure Resource Manager (ARM)
+- **Containerization & Orchestration:** Docker, Kubernetes, Rancher
+- **Monitoring & Logging:** Grafana, Elasticsearch
+- **Version Control:** GitHub, GitLab, Bitbucket
+
+**⚙️ Development & Automation**
+- **CI/CD:** Jenkins, Azure DevOps, GitHub Actions
+- **Configuration Management:** Ansible
+- **Scripting Languages:** Bash, Python
+
+**✅ Testing & QA**
+- Integrated testing within CI/CD pipelines
+
+---
+
+### 🌟 Projects & Achievements
+
+**🔹 EU Application Platform**
+- Modules: Business, Corporate, Personal
+- Streamlined infrastructure setup with Kubernetes for scalable microservices
+- Built end-to-end CI/CD with Azure DevOps for automated deployments
+- Integrated Grafana + Elasticsearch for real-time monitoring and logging
+
+**🔹 Cloud Automation**
+- Automated cloud resource provisioning on **AWS** and **Azure** using **Terraform** and **ARM templates**
+
+---
+
+### 🎓 Certifications
+- ✅ AWS Certified  
+- ✅ IBM DevOps Certified
+
+---
+
+### 📚 Currently Learning
+- Deep diving into **AWS DevOps tools & best practices**
+
+---
+
+### 🤝 Let's Connect
+- 📧 Email: [rsinha108@gmail.com](mailto:rsinha108@gmail.com)
+- 🌐 LinkedIn: *coming soon*
+
+---
+
+> “Automate everything that can be automated.” — My DevOps Mantra 🚀
