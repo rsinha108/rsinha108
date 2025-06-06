@@ -13,16 +13,18 @@ I thrive on solving complex challenges and continuously improving engineering wo
 - Databases: MySQL, PostgreSQL
 - APIs: REST APIs, Stripe, PayPal, Twilio, Google Maps
 - Other: MVC Architecture, Responsive Design, AJAX, jQuery, Composer, Git, CI/CD
+  
 **Selected Freelance Projects**
-WordPress Sites
-http://nurse-lawyer.com
-http://saigon2muine.com
-http://firstweekendclub.ca
-http://ogtstore.com
-http://www.salon-paragon.com
-Laravel Applications
-https://www.myseatime.com
-http://techsg.io
+-WordPress Sites
+-http://nurse-lawyer.com
+-http://saigon2muine.com
+-http://firstweekendclub.ca
+-http://ogtstore.com
+-http://www.salon-paragon.com
+-Laravel Applications
+-https://www.myseatime.com
+-http://techsg.io
+
 **Recent Projects**
 Laravel based SaaS  Projects
 Company - Ilensys
@@ -31,34 +33,34 @@ My Role - Support & Cloud Optimization
 Tech Stack: Laravel 9, AWS (EC2, S3, RDS, CloudWatch), Bibucket , Docker, Apache, MySQL
 
 **Responsibilities:**
-Laravel Codebase Maintenance: Fixed bugs, optimized queries, and refactored legacy modules for improved performance and readability.
-Cloud Infrastructure Support:
-Monitored EC2 instances and handled scaling during high traffic using AWS Auto Scaling Groups.
-Configured Amazon RDS backups, failover policies, and enhanced database performance.
-Managed asset storage and CDN with S3 + CloudFront integration.
+-Laravel Codebase Maintenance: Fixed bugs, optimized queries, and refactored legacy modules for improved performance and readability.
+-Cloud Infrastructure Support:
+-Monitored EC2 instances and handled scaling during high traffic using AWS Auto Scaling Groups.
+-Configured Amazon RDS backups, failover policies, and enhanced database performance.
+-Managed asset storage and CDN with S3 + CloudFront integration.
 DevOps & Automation:
-Built and maintained CI/CD pipelines using GitHub Actions for automated testing and deployment to staging/production.
-Containerized the Laravel app using Docker and deployed to AWS EC2 with Apache.
-Integrated AWS CloudWatch & SNS for log monitoring and alerting.
+-Built and maintained CI/CD pipelines using GitHub Actions for automated testing and deployment to staging/production.
+-Containerized the Laravel app using Docker and deployed to AWS EC2 with Apache.
+-Integrated AWS CloudWatch & SNS for log monitoring and alerting.
 Security & Compliance:
-Applied IAM role policies, S3 bucket permissions, and EC2 security groups.
-Periodic patching of OS and Laravel dependencies based on CVE reports.
-    Portfolio Website with Admin Panel & Blog
+-Applied IAM role policies, S3 bucket permissions, and EC2 security groups.
+-Periodic patching of OS and Laravel dependencies based on CVE reports.
+    
 
-**Other Project**-Business Website with Laravel + WordPress CMS
+**Other Project**
+-Business Website with Laravel + WordPress CMS
 Tech Stack: Laravel, WordPress, AWS Elastic Beanstalk, RDS
 - Created a Laravel-based small business website with a contact form and services.
 - Integrated WordPress as the blog engine for SEO content.
 - Used AWS Elastic Beanstalk CLI for deployments and RDS for MySQL backend.
+- 
 **Client Testimonials**
 “Rahul is amazing. He understood the requirements quickly and delivered clean, functional code ahead of schedule.”
 ⭐ – Client from USA (Laravel Project)
 
 “Very professional and responsive. Will definitely hire again for future WordPress work.”
 ⭐– Client from UK (WooCommerce Store)
-**Education**
-Bachelor of Technology in Computer Science
-UNSIET, 2015
+
 **Certifications**
 - PHP for Web Development – Coursera
 - Laravel Essentials – Udemy
